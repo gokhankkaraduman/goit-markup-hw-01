@@ -74,7 +74,7 @@ body{
     color: #434455;
 }
 .address-tel:hover,
-.address-mail:focus{
+.address-tel:focus{
     color: #404bbf;
 }
 .hero{
@@ -134,7 +134,7 @@ footer{
     background-color: #2e2f42;
 }
 .footer-logo{
-    font-family:"Raleway";
+    font-family: "Raleway";
     font-weight: 700;
     font-size: 18px;
     line-height:117%;
